@@ -1,5 +1,7 @@
 package com.leo.solutions.militar
 
+//https://www.hackerrank.com/challenges/time-conversion/problem
+
 fun main(args: Array<String>) {
     val hour = "01:54:34AM"
     convertTimeToMilitarTime(hour)
